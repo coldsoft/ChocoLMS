@@ -1,4 +1,4 @@
 ChocoLMS
 ========
 
-Library management software for UBC's CICSR library
+Library management software for a small school library
